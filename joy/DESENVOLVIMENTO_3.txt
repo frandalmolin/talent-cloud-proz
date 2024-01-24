@@ -1,0 +1,54 @@
+Em uma inscrição, o usuário informou os seguintes dados:
+
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+1. o identificador das variáveis;
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+3. a utilização do comando de atribuição, apresentando identificador e dado.
+
+---
+
+1. o identificador das variáveis:
+
+- Nome
+- CPF
+- RG
+- Altura
+- Endereço
+
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado:
+
+- identificador: Nome | tipo de dado: caractere
+- identificador: CPF | tipo de dado: ineiro
+- identificador: RG | tipo de dado: inteiro
+- identificador: Altura | tipo de dado: real
+- identificador: Endereço | tipo de dado: caractere
+
+3. a utilização do comando de atribuição, apresentando identificador e dado:
+
+- Nome: José Almeida da Silva
+o identificador: Nome 
+recebe o dado: José Almeida da Silva
+
+- CPF: 12345678900
+o identificador:  CPF 
+recebe o dado: 12345678900
+
+- RG: 9517530
+o identificador:  RG 
+recebe o dado: 9517530
+
+- Altura: 1,78
+o identificador:  Altura 
+recebe o dado: 1,78
+
+- Endereço: Rua A, 380 – Centro – Recife/PE
+o identificador:  Endereço 
+recebe o dado: Rua A, 380 – Centro – Recife/PE
+
+

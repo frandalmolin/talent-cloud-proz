@@ -1,0 +1,10 @@
+Uma "rede social" que contenha pessoas querendo doar pets, adotar pets, fazer lar temporário para pets, ou anunciar seu serviço relacionado a pets. Cada um destes serviços terá sua 'tela'.
+tela 1 - página principal
+tela 2 - perfis de pet para adoção
+tela 3 - perfis de pessoas querendo adotar
+tela 4 - perfis disponibilizando espaço para lar temporário
+tela 5 - anúncios de serviços relacionados à pets
+
+
+
+tela 6 - missão visão valores / criadores (nossa apresentação)

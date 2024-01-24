@@ -1,0 +1,11 @@
+Cada exercício da tabela em anexo tem declaração de variáveis e, na sequência, uma sentença que usa as variáveis e operadores lógicos. 
+Determine qual é o resultado final (Verdadeiro ou Falso) de cada sentença. 
+
+---
+
+1. Verdadeiro 
+2. Falso
+3. Falso
+4. Falso
+5. Verdadeiro
+6. Verdadeiro

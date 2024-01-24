@@ -1,0 +1,6 @@
+Na ilustração 02 todas as linhas tem 2 alunos P para cada 4 alunos M e vice-versa,
+quando 2 alunos trocaram de lugares houve uma alteração na terceira linha vertical,
+ficando 5 alunos M e 1 aluno P, assim como na segunda linha horizontal que ficaram
+3 alunos P e 3 alunos M.
+Através deste reconhecimento de padrões o professor conseguiu descobrir a cadeira 
+em que houve a troca de alunos e qual a disciplina de cada aluno.  

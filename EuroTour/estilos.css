@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cabecalho__link {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cabecalho__link__nav {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    font-family: Arial, sans-serif;
+}

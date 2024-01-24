@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Marven Pro', sans-serif;
+}
+
+header {
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    margin-bottom: 10px;
+}
+
+ul {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+nav ul li {
+    list-style-type: none;
+    padding: 16px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #593493;
+    color: white;
+    font-family: 'Marven Pro', sans-serif;
+}
+
+main {
+    padding: 20px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    display: flex;
+    margin-top: 25px;
+}
+
+.conteiner {
+    background-color: #ff7f00;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    flex: 1;
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5%;
+}

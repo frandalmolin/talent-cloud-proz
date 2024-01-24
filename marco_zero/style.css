@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #b6c7ff; 
+    color: #09005c; 
+}
+
+.cabecalho {
+    padding: 2% 0% 0% 15%; 
+    border-bottom: 2px solid;
+}
+
+.cabecalho__link {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+}
+
+.titulo {
+    color: #09005c;
+    font-size: 2.25rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subtitulo {
+    color: #09005c;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+.paragrafo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+
+.rodape {
+    padding: 2% 0% 0% 15%; 
+    border-bottom: 2px solid;
+}
